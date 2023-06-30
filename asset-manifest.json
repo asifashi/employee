@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/employee.git/static/css/main.c9c07ade.css",
-    "main.js": "/employee.git/static/js/main.d6d16454.js",
-    "static/js/787.6adb1dd9.chunk.js": "/employee.git/static/js/787.6adb1dd9.chunk.js",
-    "index.html": "/employee.git/index.html",
-    "main.c9c07ade.css.map": "/employee.git/static/css/main.c9c07ade.css.map",
-    "main.d6d16454.js.map": "/employee.git/static/js/main.d6d16454.js.map",
-    "787.6adb1dd9.chunk.js.map": "/employee.git/static/js/787.6adb1dd9.chunk.js.map"
+    "main.css": "/employee/static/css/main.c9c07ade.css",
+    "main.js": "/employee/static/js/main.b09d8615.js",
+    "static/js/787.6adb1dd9.chunk.js": "/employee/static/js/787.6adb1dd9.chunk.js",
+    "index.html": "/employee/index.html",
+    "main.c9c07ade.css.map": "/employee/static/css/main.c9c07ade.css.map",
+    "main.b09d8615.js.map": "/employee/static/js/main.b09d8615.js.map",
+    "787.6adb1dd9.chunk.js.map": "/employee/static/js/787.6adb1dd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9c07ade.css",
-    "static/js/main.d6d16454.js"
+    "static/js/main.b09d8615.js"
   ]
 }
